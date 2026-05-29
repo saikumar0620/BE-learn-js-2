@@ -1,1 +1,5 @@
-const registerNewUser=
+
+
+const registerNewUser = (req, res) => { 
+  
+}
